@@ -11,4 +11,3 @@ public class Worker : IWorker
         return Task.CompletedTask;
     }
 }
-
